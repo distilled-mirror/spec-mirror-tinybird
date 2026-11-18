@@ -1,0 +1,75 @@
+{
+  "source": "https://www.tinybird.co/docs/llms.txt",
+  "pages": [
+    {
+      "url": "https://www.tinybird.co/docs/api-reference",
+      "file": "api-reference/index.md",
+      "renderedFromHtml": false
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/analyze-api",
+      "file": "api-reference/analyze-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/datasource-api",
+      "file": "api-reference/datasource-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/environment-variables-api",
+      "file": "api-reference/environment-variables-api/index.md",
+      "renderedFromHtml": false
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/events-api",
+      "file": "api-reference/events-api/index.md",
+      "renderedFromHtml": false
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/jobs-api",
+      "file": "api-reference/jobs-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/organizations-api",
+      "file": "api-reference/organizations-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/pipe-api",
+      "file": "api-reference/pipe-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/pipe-api/api-endpoints",
+      "file": "api-reference/pipe-api/api-endpoints/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/pipe-api/copy-pipes-api",
+      "file": "api-reference/pipe-api/copy-pipes-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/pipe-api/materialized-views",
+      "file": "api-reference/pipe-api/materialized-views/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/query-api",
+      "file": "api-reference/query-api/index.md",
+      "renderedFromHtml": true
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/sink-pipes-api",
+      "file": "api-reference/sink-pipes-api/index.md",
+      "renderedFromHtml": false
+    },
+    {
+      "url": "https://www.tinybird.co/docs/api-reference/token-api",
+      "file": "api-reference/token-api/index.md",
+      "renderedFromHtml": true
+    }
+  ]
+}
