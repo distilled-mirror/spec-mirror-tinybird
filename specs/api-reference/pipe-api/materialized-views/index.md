@@ -119,7 +119,7 @@ Alternatively you can use the `unlink_on_populate_error='true'` flag to always u
   * Forbidden. Provided token doesn’t have permissions to append a node to the pipe, it needs `ADMIN` or `PIPE:CREATE`
   ---
   * 404
-  * Pipe not found, Node not found
+  * Pipe not found, Node not found, Data Source not found
 {% /table %}
 
 ## POST /v0/pipes/(.+)/nodes/(.+)/materialization
